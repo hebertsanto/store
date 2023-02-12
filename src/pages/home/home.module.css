@@ -1,0 +1,23 @@
+.thumbnail{
+    height: 100px;
+    width: 150px;
+    object-fit: cover;
+}
+.mainContent{
+    min-height: 100vh;
+}
+.category{
+    text-align: center;
+    color: black;
+    font-size: 1rem;
+}
+.container{
+    text-decoration: none;
+}
+.card{
+    margin: 5px;
+}
+.containerCard{
+    justify-content: center;
+    display: flex;
+}

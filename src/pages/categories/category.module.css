@@ -1,0 +1,13 @@
+.container{
+    min-height: 100vh;
+}
+.cardItem{
+    width: 300px;
+    height: 400px;
+    margin: 4px auto;
+    border: 1px solid gainsboro;
+}
+.containerCard{
+    display: flex;
+    flex-wrap: wrap;
+}
